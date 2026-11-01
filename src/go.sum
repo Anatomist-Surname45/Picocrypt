@@ -18,7 +18,7 @@ github.com/Picocrypt/w32 v0.0.0-20240831001500-1183079d4d57 h1:jusSXTp0h5wz8lxNX
 github.com/Picocrypt/w32 v0.0.0-20240831001500-1183079d4d57/go.mod h1:FkeZHdKlITdP34VknO8yLdRY5pCi+iWEhDSA0YsBhZc=
 github.com/Picocrypt/zxcvbn-go v0.0.0-20250412183938-d59695960527 h1:IqypAzv5COsByMhiSdwlgafA5SBRG7Z0binnBSo3htM=
 github.com/Picocrypt/zxcvbn-go v0.0.0-20250412183938-d59695960527/go.mod h1:u0rcUNEwy7st1DnPxdOJdTsh0aSRhrdMOxlIGrXR1Ls=
-golang.org/x/crypto v0.40.0 h1:r4x+VvoG5Fm+eJcxMaY8CQM7Lb0l1lsmjGBQ6s8BfKM=
-golang.org/x/crypto v0.40.0/go.mod h1:Qr1vMER5WyS2dfPHAlsOj01wgLbsyWtFn/aY+5+ZdxY=
-golang.org/x/sys v0.34.0 h1:H5Y5sJ2L2JRdyv7ROF1he/lPdvFsd0mJHFw2ThKHxLA=
-golang.org/x/sys v0.34.0/go.mod h1:BJP2sWEmIv4KK5OTEluFJCKSidICx8ciO85XgH3Ak8k=
+golang.org/x/crypto v0.52.0 h1:RMs7fP2rXdep0CftQlK8Uf+kibLm7qkCcradZWYz988=
+golang.org/x/crypto v0.52.0/go.mod h1:1QgfPxDqh0T2M/elOJtp9RvuR95kVjir0e6/BvEmGbc=
+golang.org/x/sys v0.45.0 h1:dO4czNzziLiiXplLQgBCEpCvXQ3dnkn0SdaZSYdQ+FY=
+golang.org/x/sys v0.45.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
